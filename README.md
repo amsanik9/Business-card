@@ -11,4 +11,4 @@ An example of a business card
 You can change a few parameters and make it your own business card.
 
 # License
-[Unlicense © Anik Mitra]
+[Unlicense © Anik Mitra](https://github.com/amsanik9/Business-card/blob/main/License)
